@@ -1,0 +1,11 @@
+.idea/
+.vs/
+.vscode/
+
+.sarif/
+
+bin/
+obj/
+
+_NCrunch_*/
+*.v3.ncrunch*

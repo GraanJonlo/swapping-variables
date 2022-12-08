@@ -1,0 +1,10 @@
+#!csharp
+
+var a = 1;
+var b = 2;
+
+var temp = a;
+a = b;
+b = temp;
+
+(a,b)
